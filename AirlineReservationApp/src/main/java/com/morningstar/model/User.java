@@ -5,7 +5,7 @@ package com.morningstar.model;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
- 
+ // commenting
 
 @Component
 @Scope(scopeName="prototype")
