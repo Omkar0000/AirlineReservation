@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
  // commenting
-//mahesh comment
+//new changes
 
 @Component
 @Scope(scopeName="prototype")
